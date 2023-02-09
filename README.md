@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
-
+<br>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/">
