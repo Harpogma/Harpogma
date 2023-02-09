@@ -11,7 +11,8 @@
   </a>
 </div>
 
-<div id="profilCount" aligne="center">
+<br>
+<div id="profileCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ypso46&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
