@@ -14,11 +14,12 @@
 <div id="profileCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ypso46&style=flat-square&color=blue" alt=""/>
 </div>
+
 <br>
 ---
 <br>
 
-👨‍🎓👨‍💻 : About Me :
+###👨‍🎓👨‍💻 : About Me :
 <!--
 **Ypso46/Ypso46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
