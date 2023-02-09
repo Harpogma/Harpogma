@@ -11,8 +11,9 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Ypso46&style=flat-square&color=blue" alt="" align="center"/>
-
+<div id="profilCount" aligne="center">
+  <img src="https://komarev.com/ghpvc/?username=Ypso46&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **Ypso46/Ypso46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
