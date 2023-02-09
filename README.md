@@ -17,7 +17,7 @@
 
 <br>
 <br>
-### :man_technologist: About Me :
+### 👨‍🎓👨‍💻 : About Me :
 <!--
 **Ypso46/Ypso46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
