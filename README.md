@@ -24,6 +24,6 @@
 
 - 🔭 I’m currently learning differents languages and technologies like C++, HTML/CSS/JS
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/)
 
 
