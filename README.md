@@ -17,10 +17,10 @@
 
 ---
 
-### 🎓👨‍💻 : About Me : I'm a Computer Science student at HEIG-VD in Switzerland. Beside, I'm doing an internship at EPFL as a Full Stack Developer.
+### 🎓👨‍💻 : About Me : I'm a student at HEIG-VD in Switzerland.
 
 
-- 🔭 I’m currently learning differents languages and technologies like C++, HTML/CSS/JS.
+- 🔭 I’m currently learning differents languages and technologies like Java, HTML/CSS/JS, Swift and SwiftUI.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/)
 
 ---
