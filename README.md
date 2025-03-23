@@ -6,7 +6,7 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/">
+  <a href="https://www.linkedin.com/in/gregory-daguerre">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently learning differents languages and technologies like Java, HTML/CSS/JS, Swift and SwiftUI.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-daguerre-4a6918223/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-daguerre)
 
 ---
 
