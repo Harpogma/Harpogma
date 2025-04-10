@@ -12,7 +12,7 @@
 </div>
 
 <div id="profileCounter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ypso46&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Harpogma&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
